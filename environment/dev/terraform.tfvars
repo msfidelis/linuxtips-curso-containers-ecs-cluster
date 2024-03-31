@@ -1,4 +1,4 @@
-project_name = "linuxtip-ecs-cluster"
+project_name = "linuxtips-ecs-cluster"
 
 region = "us-east-1"
 
