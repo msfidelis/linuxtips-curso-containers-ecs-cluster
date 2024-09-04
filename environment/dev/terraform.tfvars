@@ -31,7 +31,7 @@ load_balancer_type = "application"
 
 nodes_ami = "ami-0dc67873410203528"
 
-node_instance_type = "c5.large"
+node_instance_type = "c6a.large"
 
 node_volume_size = "50"
 
